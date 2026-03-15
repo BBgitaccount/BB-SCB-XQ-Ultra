@@ -1,6 +1,6 @@
 # Windows Bluetooth Audio Optimizer (SBC-XQ Ultra)
 
-![table.png](C:\Users\THINKPAD\Desktop\table.png)
+![table.png](table.png)
 
 ## 1. Overview & Analytical Gains
 
