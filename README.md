@@ -16,7 +16,7 @@ This tool modifies Windows kernel-level Bluetooth stack parameters to force the 
 
 To apply the kernel parameters:
 
-1. Right-click `run_optimizer.bat`.
+1. Right-click `BB SCB-XQ Ultra.bat`.
 
 2. Select **Run as administrator** (Mandatory for registry modification).
 
